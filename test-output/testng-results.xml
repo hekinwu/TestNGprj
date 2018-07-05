@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNGSuite" duration-ms="21420" started-at="2018-05-29T02:37:01Z" finished-at="2018-05-29T02:37:23Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="21420" started-at="2018-05-29T02:37:01Z" finished-at="2018-05-29T02:37:23Z">
+      <class name="com.lombardrisk.TestNGprj.TestNGDemo">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lombardrisk.TestNGprj.TestNGDemo@6767c1fc]" name="beforeMethod" is-config="true" duration-ms="2823" started-at="2018-05-29T02:37:01Z" finished-at="2018-05-29T02:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:com.lombardrisk.TestNGprj.TestNGDemo@6767c1fc]" name="testlogin" duration-ms="3623" started-at="2018-05-29T02:37:04Z" finished-at="2018-05-29T02:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lombardrisk.TestNGprj.TestNGDemo@6767c1fc]" name="afterMethod" is-config="true" duration-ms="642" started-at="2018-05-29T02:37:08Z" finished-at="2018-05-29T02:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.lombardrisk.TestNGprj.TestNGDemo -->
+      <class name="com.lombardrisk.TestNGprj.TestGoogle">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.lombardrisk.TestNGprj.TestGoogle@29ee9faa]" name="beforeMethod" is-config="true" duration-ms="2181" started-at="2018-05-29T02:37:09Z" finished-at="2018-05-29T02:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:com.lombardrisk.TestNGprj.TestGoogle@29ee9faa]" name="testlogin" duration-ms="11466" started-at="2018-05-29T02:37:11Z" finished-at="2018-05-29T02:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.lombardrisk.TestNGprj.TestGoogle@29ee9faa]" name="afterMethod" is-config="true" duration-ms="663" started-at="2018-05-29T02:37:22Z" finished-at="2018-05-29T02:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.lombardrisk.TestNGprj.TestGoogle -->
+    </test> <!-- test1 -->
+  </suite> <!-- TestNGSuite -->
+</testng-results>

@@ -1,0 +1,9 @@
+<suite name="TestNGSuite">
+	<test name="test1">
+		<classes>
+			<class name="com.lombardrisk.TestNGprj.TestNGDemo" />
+			<class name="com.lombardrisk.TestNGprj.TestGoogle" />
+			
+		</classes>
+	</test>
+</suite>
